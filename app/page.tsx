@@ -232,7 +232,7 @@ export default function Home() {
             </div>
           </div>
           <div className="mt-8 text-center text-sm" style={{ color: isNightMode ? "#8b949e" : "#6b7280" }}>
-            &copy; {new Date().getFullYear()} Prasanth Kadasi. All rights reserved.
+            &copy; {new Date().getFullYear()} Prasanth Kumar Kadasi. All rights reserved.
           </div>
         </div>
       </footer>
